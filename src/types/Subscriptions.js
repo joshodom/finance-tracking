@@ -1,0 +1,14 @@
+const Subscriptions = {
+    YOUTUBE_PRO: 'PAYPAL INST XFER GOOGLE YOUTUBE',
+    PELOTON_SUBSCRIPTION: 'PELOTON* MEMBERS',
+    CHEER: 'ICP*Capitol Kids',
+    HULU: 'HULU SANTA MONICA',
+    NETFLIX: 'NETFLIX',
+    DISNEY_PLUS: 'PAYPAL INST XFER DISNEY PLUS',
+    IBEX: 'IBEXTRAINED.COM',
+    LEO_XBOX: 'Microsoft*Ultima',
+    TEAMSNAP: 'TEAMSNAP',
+}
+
+export default Subscriptions
+

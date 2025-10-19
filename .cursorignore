@@ -1,0 +1,9 @@
+# Ignore CSV files (may contain sensitive financial data)
+*.csv
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build output
+dist/
+

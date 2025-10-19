@@ -1,0 +1,18 @@
+const Required = {
+    DAYCARE: 'ACADEMY OF INNOV',
+    ELECTRIC: 'THREE RIVERS ELE',
+    MUSIC: 'PALEN MUSIC',
+    TRUCK_PAYMENT: 'CHRYSLER CAPITAL',
+    WALMART: 'WM SUPERCENTER',
+    WAL_MART: 'WALMART',
+    SAMS: 'SAMS CLUB',
+    SAMSCLUB: 'SAMSCLUB',
+    SCHOOL_LUNCH: 'RVT*Blair Oaks',
+    INTERNET: 'Brightspeed CTL Payment',
+    TRASH: 'REPUBLICSERVICES RSIBILLPAY',
+    WATER: 'PWSD 4 Cole Co',
+    SEWER: 'MISSOURI-AMERICA PAYMENT',
+}
+
+export default Required
+
